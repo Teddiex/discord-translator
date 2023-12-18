@@ -2,10 +2,10 @@ import discord
 from googletrans import Translator
 
 # Replace 'YOUR_DISCORD_BOT_TOKEN' with your actual Discord bot token
-TOKEN = 'MTA5MjExNjIzNzE5NjE5NzkxMA.G3Kts0.BAfIOCNX9z-HwTv5cYitOkfDU4RtPbyf54cfS0'
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Replace 'YOUR_CHANNEL_ID' with the ID of the channel you want to monitor
-TARGET_CHANNEL_ID = '546084022665609222'
+TARGET_CHANNEL_ID = 'xxxxxxxxxxxxxxxxxxx'
 
 # Initialize the bot
 intents = discord.Intents.default()
